@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer azul\\Documents\\C# Nivel Intermedio\\API_SPEEDTONER\\API_SPEEDTONER\\API_SPEEDTONER.csproj": {}
+    "C:\\Users\\DELL PC\\Documents\\API SpeedToner\\ApiSpeedToner\\API_SPEEDTONER\\API_SPEEDTONER.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer azul\\Documents\\C# Nivel Intermedio\\API_SPEEDTONER\\API_SPEEDTONER\\API_SPEEDTONER.csproj": {
+    "C:\\Users\\DELL PC\\Documents\\API SpeedToner\\ApiSpeedToner\\API_SPEEDTONER\\API_SPEEDTONER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer azul\\Documents\\C# Nivel Intermedio\\API_SPEEDTONER\\API_SPEEDTONER\\API_SPEEDTONER.csproj",
+        "projectUniqueName": "C:\\Users\\DELL PC\\Documents\\API SpeedToner\\ApiSpeedToner\\API_SPEEDTONER\\API_SPEEDTONER.csproj",
         "projectName": "API_SPEEDTONER",
-        "projectPath": "C:\\Users\\acer azul\\Documents\\C# Nivel Intermedio\\API_SPEEDTONER\\API_SPEEDTONER\\API_SPEEDTONER.csproj",
-        "packagesPath": "C:\\Users\\acer azul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer azul\\Documents\\C# Nivel Intermedio\\API_SPEEDTONER\\API_SPEEDTONER\\obj\\",
+        "projectPath": "C:\\Users\\DELL PC\\Documents\\API SpeedToner\\ApiSpeedToner\\API_SPEEDTONER\\API_SPEEDTONER.csproj",
+        "packagesPath": "C:\\Users\\DELL PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL PC\\Documents\\API SpeedToner\\ApiSpeedToner\\API_SPEEDTONER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acer azul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
